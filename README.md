@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meemkoo
 - 👀 I’m interested in your mom!
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on your mom.
 - 📫 Reach me through your mom.
 
