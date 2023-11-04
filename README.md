@@ -5,7 +5,7 @@
 - 📫 Reach me through your mom.
 
 ^^^^^^^^^^^^
-Please use your imagination and pretend this doesnt exist; I made this README 2-3 years ago
+Please use your imagination and pretend this doesnt exist; I made this README 2-3 years ago (when i was cringe), M: 11/4/2023
 
 <!---
 meemkoo/meemkoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
