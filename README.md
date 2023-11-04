@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on your mom.
 - 📫 Reach me through your mom.
 
+^^^^^^^^^^^^
+Please use your imagination and pretend this doesnt exist; I made this README 2-3 years ago
+
 <!---
 meemkoo/meemkoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
